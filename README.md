@@ -3,14 +3,15 @@
 
 <h2>作業繳交區</h2>
 <h3>HW1</h3>
-個人網站: https://neiouo.github.io/HW1/ <br>
-程式碼: https://github.com/Neiouo/HW1
+Website: https://neiouo.github.io/HW1/ <br>
+Code: https://github.com/Neiouo/HW1
 <h3>HW2</h3>
 React: https://neiouo.github.io/HW2/ <br>
 Code: https://github.com/Neiouo/HW2 <br>
 Video: https://drive.google.com/file/d/16SAFdJV54UrH_t3r_I2RDbQJGiEF2n62/view?usp=sharing
 <h3>HW3</h3>
-Goal : 將日常的小需求精簡整合到同個網站，不用為了不同小事去開其他網頁或程式 <br>
+Goal: 將日常的小需求精簡整合到同個網站，不用為了不同小事去開其他網頁或程式 <br>
+Code: https://neiouo.github.io/HW3/ <br>
 Video: https://drive.google.com/file/d/1K9hilZt11WqpmIbXEQ8SKuGnUW0PR_Vq/view?usp=sharing
 <h3>HW4</h3>
 
